@@ -1,0 +1,8 @@
+/*********************************************************/
+Download Data From 
+https://www.kaggle.com/mczielinski/bitcoin-historical-data
+
+Unzip File
+
+Place in this directory
+/*********************************************************/
